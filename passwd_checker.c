@@ -44,8 +44,5 @@ int main(void)
 	return EXIT_SUCCESS;
 }
 
-/* Dark blue. */
-/* Industry. */
-/* Torte. */
 
 
