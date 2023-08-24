@@ -1,5 +1,5 @@
 # LeetCode Problem: Strong Password Checker
-This is a solution to the [Strong Password Checker][1] problem on LeetCode.
+This is a solution to the [Strong Password Checker](https://leetcode.com/problems/strong-password-checker-ii ) problem on LeetCode.
 
 ## Problem Description
 A password is considered strong if it satisfies the following criteria:
@@ -30,4 +30,3 @@ The program will run the test cases and use the assert function to check whether
 ## Contributing
 Feel free to contribute to the code or provide suggestions for improvements.
 
-[1] - https://leetcode.com/problems/strong-password-checker-ii 
