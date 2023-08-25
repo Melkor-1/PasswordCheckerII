@@ -21,8 +21,8 @@ The main function includes test cases to demonstrate the correctness of the stro
 Compile the program and run the executable to test the solution:
 
 ~~~
-gcc -o strong_password_checker strong_password_checker.c
-./strong_password_checker
+gcc -o passwd_checker passwd_checker.c
+./passwd_checker
 ~~~
 
 The program will run the test cases and use the assert function to check whether the solution is working correctly. If the program runs without any output, it means that all the test cases passed successfully.
